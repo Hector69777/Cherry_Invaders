@@ -23,7 +23,7 @@ screen = pygame.display.set_mode(size)
 background = pygame.image.load("Espacio.png")
 
 # Background Soundtrack
-mixer.music.load('Cherrys.wav')
+mixer.music.load('Cherrys.mp3')
 mixer.music.play(-1)
 mixer.music.set_volume(1)
 
